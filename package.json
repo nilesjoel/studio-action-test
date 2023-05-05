@@ -1,5 +1,5 @@
 {
-  "name": "studio-action-test",
+  "name": "@studiosymmetries/studio-action-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
