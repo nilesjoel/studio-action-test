@@ -4,7 +4,7 @@
 name: Node.js Package
 
 on:
-  publish:
+  push:
     branches: '*' # Set a branch to publish releases
 
 jobs:
